@@ -1,0 +1,8 @@
+{
+    "User": true,
+    "Auth": true,
+    "Dashboard": true,
+    "RolesAndPermissions": true,
+    "Profile": true,
+    "Task": true
+}
